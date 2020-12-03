@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>google</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<p style="margin-left: 1126px;">Gmail</p>
+<p style="margin-left: 1200px; margin-top: -34px;">Images</p>
+
+
+<center>
+	<img src="image/google.png" style="margin-top: 150px;">
+	<br><br>
+	<input type="text" name="" placeholder="search google or Type a URL" style="font-size: 18px; border-radius: 20px; padding-left: 150px;padding-right: 150px;">
+	<br>
+	<i class="fa fa-search" aria-hidden="true" style="position: relative;
+    top: -21px;
+    left: -242px;"></i>
+    <br>
+    <i class="fa fa-microphone" aria-hidden="true" style="position: relative;
+    top: -38px;
+    left: 240px;"></i>
+    
+</center>
+</body>
+</html>
